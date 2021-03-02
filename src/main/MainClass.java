@@ -9,13 +9,13 @@ import member.Member;
 
 public class MainClass {
 	public static void main(String[] args) { 		
-	//kim -·Î±×ÀÎ °ü·Ã ±â´É
-	//cho -È¸¿ø °ü¸® ±â´É
-		System.out.println("mainÀÎ ½ÃÀÛ");
+	//kim -ë¡œê·¸ì¸ ê´€ë ¨ ê¸°ëŠ¥
+	//cho -íšŒì› ê´€ë¦¬ ê¸°ëŠ¥
+		System.out.println("mainì¸ ì‹œìž‘");
 	Scanner sc=new Scanner(System.in);
 	int num;
 	while(true) {
-		System.out.print("1.·Î±×ÀÎ 2.È¸¿ø°ü¸®\n>>>");
+		System.out.print("1.ë¡œê·¸ì¸ 2.íšŒì›ê´€ë¦¬\n>>>");
 		num =sc.nextInt();
 		switch(num) {
 		case 1:

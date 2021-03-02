@@ -2,6 +2,6 @@ package member;
 
 public class Member {
  public void member() {
-	 System.out.println("È¸¿ø°ü¸® ±â´É ¿Ï¼º");
+	 System.out.println("ë©¤ë²„ ê¸°ëŠ¥ ì™„ì„±");
  }
 }

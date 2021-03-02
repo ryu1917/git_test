@@ -2,6 +2,6 @@ package login;
 
 public class Login {
 	public void login() {
-	 System.out.println("·Î±×ÀÎ ±â´É ¿Ï¼º");
+	 System.out.println("ë¡œê·¸ì¸ ê¸°ëŠ¥ ì™„ì„±");
 	}
 }
