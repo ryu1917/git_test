@@ -14,6 +14,8 @@ public class MainClass {
 		num =sc.nextInt();
 		switch(num) {
 		case 1:
+			Login lo=new Login();
+			lo.login();
 			break;
 		case 2:
 			break;
