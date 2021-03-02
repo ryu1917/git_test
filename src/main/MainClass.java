@@ -2,6 +2,8 @@ package main;
 
 import java.util.Scanner;
 
+import login.Login;
+
 public class MainClass {
 	public static void main(String[] args) { 		
 	//kim -로그인 관련 기능
@@ -14,7 +16,7 @@ public class MainClass {
 		num =sc.nextInt();
 		switch(num) {
 		case 1:
-			Login lo=new Login();
+			Login lo =new Login();
 			lo.login();
 			break;
 		case 2:
